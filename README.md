@@ -1,7 +1,6 @@
 
 ## Screen shots 📷
-
-![index](https://user-images.githubusercontent.com/69542107/113020245-c8fb6400-9158-11eb-9bbf-a7642f968b25.jpg)
+<img src="https://user-images.githubusercontent.com/69542107/113020245-c8fb6400-9158-11eb-9bbf-a7642f968b25.jpg" width="500" />
 
 ### Pre-requisites 📋
 
