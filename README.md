@@ -14,11 +14,12 @@ _Run commands_
 git clone https://github.com/lucasrodriguezdavila/react-native-omdb.git
 ```
 ```
-yarn install
-```
-```
 cd react-native-omdb
 ```
+```
+yarn install
+```
+
 Android
 ```
 yarn android
